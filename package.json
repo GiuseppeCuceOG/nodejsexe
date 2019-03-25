@@ -8,8 +8,5 @@
     "start": "node index"
   },
   "author": "Giuseppe Cuce",
-  "license": "ISC",
-  "dependencies": {
-    "morgan": "^1.9.0"
-  }
+  "license": "ISC"
 }
